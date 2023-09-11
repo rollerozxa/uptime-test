@@ -4,8 +4,8 @@ repo: uptime-test
 sites:
   - name: principia-web.se
     url: https://principia-web.se
-  - name: archive
-    uri: https://archive.principia-web.se
+  - name: archive.principia-web.se
+    url: https://archive.principia-web.se
 
 status-website:
   cname: status.principia-web.se
