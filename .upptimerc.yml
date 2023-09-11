@@ -2,19 +2,42 @@ owner: rollerozxa
 repo: uptime-test
 
 sites:
-  - name: principia-web.se
+  - name: principia-web
     url: https://principia-web.se
-  - name: archive.principia-web.se
+    maxResponseTime: 5000
+  - name: principia-web-archive
     url: https://archive.principia-web.se
+    maxResponseTime: 5000
+
+  - name: voxelmanip.se
+    url: https://voxelmanip.se
+    maxResponseTime: 5000
+  - name: Voxelmanip Forums
+    url: https://forum.voxelmanip.se
+    maxResponseTime: 5000
+  - name: Voxelmanip Wiki
+    url: https://wiki.voxelmanip.se
+    maxResponseTime: 5000
+
+  - name: Minetest Wiki Mirror
+    url: https://wiki.minetest.land/Main_Page
+    maxResponseTime: 5000
+  - name: Minetest Wiki (for comparison against mirror)
+    url: https://wiki.minetest.net/Main_Page
+    maxResponseTime: 5000
 
 status-website:
-  cname: status.principia-web.se
-  #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: principia-web uptime status
-  #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.voxelmanip.se
+  name: ROllerozxa uptime status
+  introTitle: ROllerozxa uptime status
+  introMessage: This status page tracks the uptime for services hosted by ROllerozxa.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+
+i18n:
+  footer: Powered by [Upptime](https://upptime.js.org)
