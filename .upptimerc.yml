@@ -4,27 +4,27 @@ repo: uptime-test
 sites:
   - name: principia-web
     url: https://principia-web.se
-    maxResponseTime: 5000
+    maxResponseTime: 2000
   - name: principia-web-archive
     url: https://archive.principia-web.se
-    maxResponseTime: 5000
+    maxResponseTime: 2000
 
   - name: voxelmanip.se
     url: https://voxelmanip.se
-    maxResponseTime: 5000
+    maxResponseTime: 2000
   - name: Voxelmanip Forums
     url: https://forum.voxelmanip.se
-    maxResponseTime: 5000
+    maxResponseTime: 2000
   - name: Voxelmanip Wiki
     url: https://wiki.voxelmanip.se
-    maxResponseTime: 5000
+    maxResponseTime: 2000
 
   - name: Minetest Wiki Mirror
     url: https://wiki.minetest.land/Main_Page
-    maxResponseTime: 5000
+    maxResponseTime: 2000
   - name: Minetest Wiki (for comparison against mirror)
     url: https://wiki.minetest.net/Main_Page
-    maxResponseTime: 5000
+    maxResponseTime: 2000
 
 status-website:
   cname: status.voxelmanip.se
