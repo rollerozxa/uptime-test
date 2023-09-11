@@ -1,6 +1,5 @@
-# Change these first
-owner: rollerozxa # Your GitHub organization or username, where this repository lives
-repo: uptime-test # The name of this repository
+owner: rollerozxa
+repo: uptime-test
 
 sites:
   - name: principia-web.se
@@ -9,10 +8,7 @@ sites:
     uri: https://archive.principia-web.se
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.principia-web.se
-  # baseUrl: /your-repo-name
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: principia-web uptime status
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
