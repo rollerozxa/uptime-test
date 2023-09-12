@@ -113,18 +113,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.minetest.net.ico",
     "slug": "minetest-wiki-for-comparison-against-mirror",
     "status": "up",
-    "uptime": "84.41%",
-    "uptimeDay": "84.41%",
-    "uptimeWeek": "84.41%",
-    "uptimeMonth": "84.41%",
-    "uptimeYear": "84.41%",
+    "uptime": "87.90%",
+    "uptimeDay": "87.90%",
+    "uptimeWeek": "87.90%",
+    "uptimeMonth": "87.90%",
+    "uptimeYear": "87.90%",
     "time": 3077,
     "timeDay": 3077,
     "timeWeek": 3077,
     "timeMonth": 3077,
     "timeYear": 3077,
     "dailyMinutesDown": {
-      "2023-09-11": 103
+      "2023-09-11": 92
     }
   }
 ]
