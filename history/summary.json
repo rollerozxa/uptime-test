@@ -22,18 +22,20 @@
     "url": "https://archive.principia-web.se",
     "icon": "https://icons.duckduckgo.com/ip3/archive.principia-web.se.ico",
     "slug": "principia-web-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 540,
-    "timeDay": 664,
-    "timeWeek": 668,
-    "timeMonth": 648,
+    "timeDay": 533,
+    "timeWeek": 635,
+    "timeMonth": 640,
     "timeYear": 540,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-01": 0
+    }
   },
   {
     "name": "voxelmanip.se",
