@@ -4,10 +4,10 @@
     "url": "https://principia-web.se",
     "icon": "https://icons.duckduckgo.com/ip3/principia-web.se.ico",
     "slug": "principia-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "95.27%",
-    "uptimeWeek": "99.32%",
+    "uptimeDay": "95.11%",
+    "uptimeWeek": "99.30%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
     "time": 568,
@@ -16,7 +16,7 @@
     "timeMonth": 583,
     "timeYear": 568,
     "dailyMinutesDown": {
-      "2024-05-02": 68
+      "2024-05-02": 70
     }
   },
   {
@@ -24,11 +24,11 @@
     "url": "https://archive.principia-web.se",
     "icon": "https://icons.duckduckgo.com/ip3/archive.principia-web.se.ico",
     "slug": "principia-web-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "92.26%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "92.14%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.97%",
     "time": 541,
     "timeDay": 611,
@@ -36,7 +36,7 @@
     "timeMonth": 645,
     "timeYear": 541,
     "dailyMinutesDown": {
-      "2024-05-02": 68,
+      "2024-05-02": 70,
       "2024-05-01": 44
     }
   },
@@ -45,11 +45,11 @@
     "url": "https://voxelmanip.se",
     "icon": "https://icons.duckduckgo.com/ip3/voxelmanip.se.ico",
     "slug": "voxelmanip-se",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "95.33%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "95.25%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
     "time": 452,
     "timeDay": 590,
@@ -57,7 +57,7 @@
     "timeMonth": 477,
     "timeYear": 452,
     "dailyMinutesDown": {
-      "2024-05-02": 67
+      "2024-05-02": 68
     }
   },
   {
@@ -65,9 +65,9 @@
     "url": "https://forum.voxelmanip.se",
     "icon": "https://icons.duckduckgo.com/ip3/forum.voxelmanip.se.ico",
     "slug": "voxelmanip-forums",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "96.18%",
+    "uptimeDay": "96.13%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
@@ -77,7 +77,7 @@
     "timeMonth": 461,
     "timeYear": 464,
     "dailyMinutesDown": {
-      "2024-05-02": 55
+      "2024-05-02": 56
     }
   },
   {
@@ -85,7 +85,7 @@
     "url": "https://wiki.voxelmanip.se",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.voxelmanip.se.ico",
     "slug": "voxelmanip-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "96.21%",
     "uptimeWeek": "99.46%",
