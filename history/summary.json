@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/principia-web.se.ico",
     "slug": "principia-web",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "95.11%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.96%",
+    "uptimeDay": "91.10%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.96%",
     "time": 568,
     "timeDay": 734,
     "timeWeek": 707,
     "timeMonth": 583,
     "timeYear": 568,
     "dailyMinutesDown": {
-      "2024-05-02": 70
+      "2024-05-02": 128
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://archive.principia-web.se",
     "icon": "https://icons.duckduckgo.com/ip3/archive.principia-web.se.ico",
     "slug": "principia-web-archive",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "92.14%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.97%",
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "88.14%",
+    "uptimeWeek": "98.31%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.95%",
     "time": 541,
-    "timeDay": 611,
-    "timeWeek": 650,
-    "timeMonth": 645,
+    "timeDay": 583,
+    "timeWeek": 633,
+    "timeMonth": 640,
     "timeYear": 541,
     "dailyMinutesDown": {
-      "2024-05-02": 70,
+      "2024-05-02": 127,
       "2024-05-01": 44
     }
   },
@@ -45,19 +45,19 @@
     "url": "https://voxelmanip.se",
     "icon": "https://icons.duckduckgo.com/ip3/voxelmanip.se.ico",
     "slug": "voxelmanip-se",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "95.25%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "91.25%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.96%",
     "time": 452,
-    "timeDay": 590,
-    "timeWeek": 507,
-    "timeMonth": 477,
+    "timeDay": 519,
+    "timeWeek": 493,
+    "timeMonth": 474,
     "timeYear": 452,
     "dailyMinutesDown": {
-      "2024-05-02": 68
+      "2024-05-02": 126
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "https://forum.voxelmanip.se",
     "icon": "https://icons.duckduckgo.com/ip3/forum.voxelmanip.se.ico",
     "slug": "voxelmanip-forums",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "96.13%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "92.13%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.97%",
     "time": 464,
-    "timeDay": 454,
-    "timeWeek": 453,
-    "timeMonth": 461,
+    "timeDay": 432,
+    "timeWeek": 446,
+    "timeMonth": 459,
     "timeYear": 464,
     "dailyMinutesDown": {
-      "2024-05-02": 56
+      "2024-05-02": 113
     }
   },
   {
@@ -85,19 +85,19 @@
     "url": "https://wiki.voxelmanip.se",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.voxelmanip.se.ico",
     "slug": "voxelmanip-wiki",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "96.21%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "92.20%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.97%",
     "time": 445,
-    "timeDay": 459,
-    "timeWeek": 506,
+    "timeDay": 452,
+    "timeWeek": 498,
     "timeMonth": 439,
     "timeYear": 445,
     "dailyMinutesDown": {
-      "2024-05-02": 55
+      "2024-05-02": 113
     }
   }
 ]
