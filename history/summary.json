@@ -4,9 +4,9 @@
     "url": "https://principia-web.se",
     "icon": "https://icons.duckduckgo.com/ip3/principia-web.se.ico",
     "slug": "principia-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 604,
     "timeYear": 572,
     "dailyMinutesDown": {
+      "2024-07-16": 0,
       "2024-05-02": 138
     }
   },
