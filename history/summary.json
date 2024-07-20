@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 572,
-    "timeDay": 509,
-    "timeWeek": 554,
-    "timeMonth": 606,
-    "timeYear": 572,
+    "time": 573,
+    "timeDay": 647,
+    "timeWeek": 585,
+    "timeMonth": 616,
+    "timeYear": 573,
     "dailyMinutesDown": {
       "2024-05-02": 138
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 545,
-    "timeDay": 480,
-    "timeWeek": 546,
-    "timeMonth": 557,
-    "timeYear": 545,
+    "time": 546,
+    "timeDay": 589,
+    "timeWeek": 570,
+    "timeMonth": 560,
+    "timeYear": 546,
     "dailyMinutesDown": {
       "2024-05-02": 127,
       "2024-05-01": 44
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 453,
-    "timeDay": 401,
-    "timeWeek": 416,
-    "timeMonth": 463,
+    "timeDay": 510,
+    "timeWeek": 432,
+    "timeMonth": 471,
     "timeYear": 453,
     "dailyMinutesDown": {
       "2024-05-02": 126
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 460,
-    "timeDay": 313,
-    "timeWeek": 407,
-    "timeMonth": 456,
-    "timeYear": 460,
+    "time": 461,
+    "timeDay": 516,
+    "timeWeek": 434,
+    "timeMonth": 465,
+    "timeYear": 461,
     "dailyMinutesDown": {
       "2024-05-02": 113
     }
@@ -86,16 +86,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.voxelmanip.se.ico",
     "slug": "voxelmanip-wiki",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 447,
-    "timeDay": 395,
-    "timeWeek": 451,
-    "timeMonth": 477,
-    "timeYear": 447,
+    "uptimeYear": "99.98%",
+    "time": 448,
+    "timeDay": 504,
+    "timeWeek": 465,
+    "timeMonth": 482,
+    "timeYear": 448,
     "dailyMinutesDown": {
       "2024-05-02": 113
     }
