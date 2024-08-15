@@ -4,11 +4,11 @@
     "url": "https://principia-web.se",
     "icon": "https://icons.duckduckgo.com/ip3/principia-web.se.ico",
     "slug": "principia-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "96.21%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "95.95%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.96%",
     "time": 577,
     "timeDay": 599,
@@ -16,7 +16,7 @@
     "timeMonth": 634,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2024-08-15": 55,
+      "2024-08-15": 59,
       "2024-05-02": 138
     }
   },
@@ -25,11 +25,11 @@
     "url": "https://archive.principia-web.se",
     "icon": "https://icons.duckduckgo.com/ip3/archive.principia-web.se.ico",
     "slug": "principia-web-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
     "time": 553,
     "timeDay": 0,
@@ -37,6 +37,7 @@
     "timeMonth": 635,
     "timeYear": 553,
     "dailyMinutesDown": {
+      "2024-08-15": 2,
       "2024-05-02": 127,
       "2024-05-01": 44
     }
@@ -66,10 +67,10 @@
     "url": "https://forum.voxelmanip.se",
     "icon": "https://icons.duckduckgo.com/ip3/forum.voxelmanip.se.ico",
     "slug": "voxelmanip-forums",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 465,
@@ -78,6 +79,7 @@
     "timeMonth": 503,
     "timeYear": 465,
     "dailyMinutesDown": {
+      "2024-08-15": 1,
       "2024-05-02": 113
     }
   },
