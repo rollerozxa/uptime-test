@@ -4,18 +4,19 @@
     "url": "https://principia-web.se",
     "icon": "https://icons.duckduckgo.com/ip3/principia-web.se.ico",
     "slug": "principia-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 577,
-    "timeDay": 514,
-    "timeWeek": 569,
-    "timeMonth": 630,
+    "timeDay": 0,
+    "timeWeek": 565,
+    "timeMonth": 636,
     "timeYear": 577,
     "dailyMinutesDown": {
+      "2024-08-15": 0,
       "2024-05-02": 138
     }
   },
@@ -31,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 553,
-    "timeDay": 501,
-    "timeWeek": 600,
-    "timeMonth": 630,
+    "timeDay": 0,
+    "timeWeek": 613,
+    "timeMonth": 635,
     "timeYear": 553,
     "dailyMinutesDown": {
       "2024-05-02": 127,
@@ -52,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 457,
-    "timeDay": 333,
-    "timeWeek": 432,
-    "timeMonth": 489,
+    "timeDay": 0,
+    "timeWeek": 426,
+    "timeMonth": 492,
     "timeYear": 457,
     "dailyMinutesDown": {
       "2024-05-02": 126
@@ -72,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 465,
-    "timeDay": 345,
-    "timeWeek": 481,
-    "timeMonth": 501,
+    "timeDay": 0,
+    "timeWeek": 478,
+    "timeMonth": 503,
     "timeYear": 465,
     "dailyMinutesDown": {
       "2024-05-02": 113
@@ -92,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 452,
-    "timeDay": 846,
-    "timeWeek": 485,
-    "timeMonth": 507,
+    "timeDay": 0,
+    "timeWeek": 507,
+    "timeMonth": 501,
     "timeYear": 452,
     "dailyMinutesDown": {
       "2024-05-02": 113
