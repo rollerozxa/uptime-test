@@ -15,9 +15,6 @@ sites:
   - name: Voxelmanip Forums
     url: https://forum.voxelmanip.se
     maxResponseTime: 1500
-  - name: Voxelmanip Wiki
-    url: https://wiki.voxelmanip.se
-    maxResponseTime: 1500
 
 status-website:
   cname: status.voxelmanip.se
