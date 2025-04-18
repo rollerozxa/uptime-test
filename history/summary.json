@@ -10,7 +10,7 @@
     "uptimeWeek": "98.83%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.90%",
-    "time": 592,
+    "time": 593,
     "timeDay": 668,
     "timeWeek": 641,
     "timeMonth": 649,
@@ -32,10 +32,10 @@
     "uptimeWeek": "98.72%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.90%",
-    "time": 590,
-    "timeDay": 459,
-    "timeWeek": 605,
-    "timeMonth": 687,
+    "time": 589,
+    "timeDay": 474,
+    "timeWeek": 594,
+    "timeMonth": 682,
     "timeYear": 594,
     "dailyMinutesDown": {
       "2025-04-18": 129,
@@ -55,10 +55,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 534,
-    "timeDay": 618,
-    "timeWeek": 751,
-    "timeMonth": 648,
+    "time": 535,
+    "timeDay": 580,
+    "timeWeek": 725,
+    "timeMonth": 645,
     "timeYear": 565,
     "dailyMinutesDown": {
       "2024-05-02": 126
@@ -76,35 +76,14 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.92%",
     "time": 472,
-    "timeDay": 479,
-    "timeWeek": 531,
+    "timeDay": 483,
+    "timeWeek": 528,
     "timeMonth": 507,
     "timeYear": 474,
     "dailyMinutesDown": {
       "2025-04-18": 128,
       "2025-04-13": 19,
       "2024-08-15": 174,
-      "2024-05-02": 113
-    }
-  },
-  {
-    "name": "Voxelmanip Wiki",
-    "url": "https://wiki.voxelmanip.se",
-    "icon": "https://icons.duckduckgo.com/ip3/wiki.voxelmanip.se.ico",
-    "slug": "voxelmanip-wiki",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
-    "time": 388,
-    "timeDay": 164,
-    "timeWeek": 179,
-    "timeMonth": 205,
-    "timeYear": 374,
-    "dailyMinutesDown": {
-      "2024-08-15": 168,
       "2024-05-02": 113
     }
   }
