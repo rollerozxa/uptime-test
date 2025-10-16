@@ -1,7 +1,7 @@
 url: https://archive.principia-web.se
-status: degraded
-code: 502
-responseTime: 2320
-lastUpdated: 2025-10-16T19:23:42.455Z
+status: up
+code: 200
+responseTime: 742
+lastUpdated: 2025-10-16T19:35:14.290Z
 startTime: 2023-09-11T12:30:57.430Z
 generator: Upptime <https://github.com/upptime/upptime>
