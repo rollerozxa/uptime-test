@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 617,
-    "timeDay": 890,
-    "timeWeek": 666,
-    "timeMonth": 677,
-    "timeYear": 619,
+    "timeDay": 1032,
+    "timeWeek": 729,
+    "timeMonth": 692,
+    "timeYear": 621,
     "dailyMinutesDown": {
       "2025-04-18": 118
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 634,
-    "timeDay": 349,
-    "timeWeek": 354,
+    "time": 635,
+    "timeDay": 790,
+    "timeWeek": 429,
     "timeMonth": 782,
-    "timeYear": 642,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2025-10-02": 22,
       "2025-04-18": 129
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 576,
-    "timeDay": 145,
-    "timeWeek": 200,
-    "timeMonth": 250,
-    "timeYear": 603,
+    "timeDay": 174,
+    "timeWeek": 212,
+    "timeMonth": 240,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2025-06-05": 193
     }
@@ -66,16 +66,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.voxelmanip.se.ico",
     "slug": "voxelmanip-forums",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 495,
-    "timeDay": 477,
-    "timeWeek": 538,
-    "timeMonth": 628,
-    "timeYear": 501,
+    "time": 496,
+    "timeDay": 692,
+    "timeWeek": 565,
+    "timeMonth": 634,
+    "timeYear": 502,
     "dailyMinutesDown": {
       "2025-06-05": 193,
       "2025-04-18": 128,
