@@ -5,9 +5,6 @@ sites:
   - name: principia-web
     url: https://principia-web.se
     maxResponseTime: 1500
-  - name: principia-web-archive
-    url: https://archive.principia-web.se
-    maxResponseTime: 1500
 
   - name: voxelmanip.se
     url: https://voxelmanip.se
