@@ -49,19 +49,19 @@
     "url": "https://forum.voxelmanip.se",
     "icon": "https://icons.duckduckgo.com/ip3/forum.voxelmanip.se.ico",
     "slug": "voxelmanip-forums",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeDay": "92.47%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.94%",
     "time": 594,
-    "timeDay": 11625,
-    "timeWeek": 3418,
-    "timeMonth": 1336,
+    "timeDay": 7924,
+    "timeWeek": 3097,
+    "timeMonth": 1311,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2026-04-29": 0,
+      "2026-04-29": 108,
       "2025-06-05": 193
     }
   }
