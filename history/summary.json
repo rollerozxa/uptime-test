@@ -4,16 +4,16 @@
     "url": "https://principia-web.se",
     "icon": "https://icons.duckduckgo.com/ip3/principia-web.se.ico",
     "slug": "principia-web",
-    "status": "degraded",
-    "uptime": "99.93%",
-    "uptimeDay": "89.96%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "98.99%",
-    "uptimeYear": "99.89%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "79.77%",
+    "uptimeWeek": "97.11%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "99.86%",
     "time": 729,
-    "timeDay": 10204,
-    "timeWeek": 2255,
-    "timeMonth": 992,
+    "timeDay": 5478,
+    "timeWeek": 2040,
+    "timeMonth": 985,
     "timeYear": 751,
     "dailyMinutesDown": {
       "2026-01-26": 28,
@@ -21,7 +21,7 @@
       "2026-02-12": 34,
       "2026-03-11": 28,
       "2026-10-21": 299,
-      "2026-11-03": 145
+      "2026-11-03": 291
     }
   },
   {
@@ -50,23 +50,23 @@
     "url": "https://forum.voxelmanip.se",
     "icon": "https://icons.duckduckgo.com/ip3/forum.voxelmanip.se.ico",
     "slug": "voxelmanip-forums",
-    "status": "degraded",
-    "uptime": "99.92%",
-    "uptimeDay": "90.24%",
-    "uptimeWeek": "98.61%",
-    "uptimeMonth": "99.00%",
-    "uptimeYear": "99.87%",
-    "time": 676,
-    "timeDay": 2031,
-    "timeWeek": 885,
-    "timeMonth": 737,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "80.05%",
+    "uptimeWeek": "97.15%",
+    "uptimeMonth": "98.66%",
+    "uptimeYear": "99.84%",
+    "time": 677,
+    "timeDay": 1477,
+    "timeWeek": 890,
+    "timeMonth": 742,
     "timeYear": 723,
     "dailyMinutesDown": {
       "2026-04-29": 108,
       "2026-09-12": 8,
       "2026-09-11": 120,
       "2026-10-21": 299,
-      "2026-11-03": 141
+      "2026-11-03": 287
     }
   }
 ]
